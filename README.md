@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="center"><img src="assets/hello.gif" height="30" width="30"/><p><b>Hello there!</b></p></div>
 
-<!--
-**bewithaby/bewithaby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Over a decade of IT experience in product development, technical support,
+and project management with diverse technologies.
 
-Here are some ideas to get you started:
+💡 Advanced experience across different phases of the Software Development
+Life Cycle (SDLC) predominantly with Microsoft technology stack.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏆 Proven project management skills handling project plans, communication
+plans, risk management, scope management, and status reporting.
+
+🔧 Expert in transforming organizations with modern DevOps and agile
+methodologies.
+
+🌟 Excellent leadership skills to lead and motivate cross-functional teams to
+achieve project goals and deliver high-quality results.
+
+🌍 Rich experience in interacting with clients, teams, and stakeholders from
+different geographical regions.
